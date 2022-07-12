@@ -1,3 +1,8 @@
+a {
+    text-decoration: none;
+    margin: 20px;
+}
+
 #img-road {
     position: absolute;
     left: 20px;
